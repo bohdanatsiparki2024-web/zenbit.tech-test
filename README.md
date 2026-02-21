@@ -1,5 +1,5 @@
 # zenbit.tech-test
-My test task in ZenBit.Tech Company😊
+My little project in Real Estate Domain😊
 ### Tech stack
 - JavaScript
 - React
