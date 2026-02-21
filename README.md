@@ -1,4 +1,4 @@
-# zenbit.tech-test
+# real-estate-project
 My little project in Real Estate Domain😊
 ### Tech stack
 - JavaScript
